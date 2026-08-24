@@ -1,5 +1,5 @@
 @echo off
-title userbruteforce - Ebola Man
+title Ebola Man
 setlocal enabledelayedexpansion
 chcp 65001 >nul
 :start
